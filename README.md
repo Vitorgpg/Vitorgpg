@@ -18,5 +18,6 @@
     <img align="center" alt=MongoDb src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt=Angular src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img align="center" alt=Javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt=C# src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 Apaixonado por programação e ansioso para aplicar minha paixão na área profissional 😎
