@@ -1,8 +1,5 @@
 ### Olá, tudo bem? eu sou Vitor Gabriel ✌🏼🤠
 
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naoe_ovittu/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-pinheiro-gomes-085601240/) 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorgpg&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorgpg&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,3 +18,8 @@
     <img align="center" alt=C# src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 Apaixonado por programação e ansioso para aplicar minha paixão na área profissional 😎
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naoe_ovittu/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-pinheiro-gomes-085601240/) 
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Vitorgpg.visitor-badge&left_text=MyPageVisitors)
